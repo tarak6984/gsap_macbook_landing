@@ -1,5 +1,7 @@
 # GSAP MacBook Landing
 
+🌟 **[View Live Demo](https://gsapmacbooklanding-sigma.vercel.app/)** 🌟
+
 A stunning Apple-style website built with React, Three.js, GSAP, and TailwindCSS. This project creates immersive 3D product scenes with realistic lighting, scroll-triggered animations, masking effects, and smooth animations.
 
 ## Features
